@@ -7,6 +7,8 @@ import java.time.LocalDate;
  * Simular entidad recuperada de la BBDD 
  */
 
+// Cambio test
+
 public class Oferta implements Serializable {
 
 	private static final long serialVersionUID = 1L;
